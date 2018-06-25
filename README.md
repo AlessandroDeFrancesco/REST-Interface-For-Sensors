@@ -10,3 +10,6 @@ Eseguire il file [SDP_Sensors_Network.bat](Sorgenti/SDP_Sensors_Network.bat) per
 Ora è possibile formulare query attraverso SDPTechnician.jar precedentemente compilato.
 
 Tutti i progetti sono stati creati e testati in Eclipse.
+
+Sviluppato nel 2016 da:
+Alessandro De Francesco
